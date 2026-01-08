@@ -1,0 +1,3 @@
+AskSoul is an AI-powered mental wellness and life-guidance application designed to support individuals dealing with daily emotional, mental, and life-related challenges. The app focuses on providing clarity, emotional support, and non-judgmental guidance in an accessible and user-friendly manner.
+Purpose & Vision:
+AskSoul was created to address the growing problem of loneliness, mental stress, overthinking, and lack of safe spaces for emotional expression. The vision is to make mental well-being an everyday practice rather than a crisis response, helping users feel heard, understood, and guided at any moment.

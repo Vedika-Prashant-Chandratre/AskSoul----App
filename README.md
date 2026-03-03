@@ -1,6 +1,7 @@
 # AskSoul - AI-Powered Mental Wellness & Life Guidance App
 
 **AskSoul** is an AI-powered mental wellness and life-guidance application designed to support individuals dealing with daily emotional, mental, and life-related challenges. The app focuses on providing clarity, emotional support, and non-judgmental guidance in an accessible and user-friendly manner.
+## Link to App - https://372j7lj7kke7ojhza51x.share.dreamflow.app/
 
 ## Purpose & Vision
 **AskSoul** was created to address the growing problem of **loneliness, mental stress, overthinking**, and the lack of safe spaces for emotional expression. The vision is to make mental well-being an everyday practice rather than a crisis response, helping users feel **heard, understood, and guided** at any moment.

@@ -1,27 +1,20 @@
-# AskSoul - AI-Powered Mental Wellness & Life Guidance App
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-**AskSoul** is an AI-powered mental wellness and life-guidance application designed to support individuals dealing with daily emotional, mental, and life-related challenges. The app focuses on providing clarity, emotional support, and non-judgmental guidance in an accessible and user-friendly manner.
-## Link to App - https://372j7lj7kke7ojhza51x.share.dreamflow.app/
+# Run and deploy your AI Studio app
 
-## Purpose & Vision
-**AskSoul** was created to address the growing problem of **loneliness, mental stress, overthinking**, and the lack of safe spaces for emotional expression. The vision is to make mental well-being an everyday practice rather than a crisis response, helping users feel **heard, understood, and guided** at any moment.
+This contains everything you need to run your app locally.
 
-In today’s fast-paced life, we often carry mental and emotional burdens that have no outlet. Many of us feel **lonely, anxious, or overwhelmed**, with questions about life, relationships, and purpose that we don’t know who to ask. We live in a world full of noise, but genuine listening, guidance, and understanding are rare.
+View your app in AI Studio: https://ai.studio/apps/c2ba20f3-7ea7-4e96-a057-2120e63f72bc
 
-This is the core reason I created **AskSoul**—an AI-powered mental wellness and guidance app designed to **give voice to your thoughts and clarity to your mind**. It provides a safe, non-judgmental space where users can:
+## Run Locally
 
-- **Express feelings honestly without fear of judgment**
-- **Receive guidance that blends spiritual wisdom with logical reasoning**
-- **Find companionship during moments of loneliness or stress**
+**Prerequisites:**  Node.js
 
-## Core Features
-**AskSoul** is built around three thoughtfully designed tabs:
 
-### 1. Guidance
-Ask life-related questions and receive answers in **Spiritual**, **Logical**, or **Balanced** modes, helping users gain clarity and emotional stability.
-
-### 2. Play with Mind
-Interactive quizzes, games, and motivational talks designed to **reduce stress**, **refresh the mind**, and gently assess mood. This makes mental well-being engaging and easy to approach.
-
-### 3. Mood & Companion
-A supportive AI that **listens patiently** and helps users understand and track their emotions, especially during times of overwhelm. It provides companionship and guidance when users need it most.
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

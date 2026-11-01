@@ -1,0 +1,6 @@
+{
+  "name": "AskSoul - Mental Health & Guidance",
+  "description": "A compassionate mental health companion featuring Soul guidance modes, mood assessments, mindfulness exercises, and gentle reflection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

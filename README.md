@@ -1,20 +1,9 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# AskSoul – AI-Powered Mental Wellness and Self-Reflection Platform
 
-# Run and deploy your AI Studio app
+**AskSoul** is an innovative AI-powered platform designed to provide users with a safe, supportive, and interactive space for emotional expression, self-reflection, and personal growth. It aims to bridge the gap between mental well-being and logical self-understanding by allowing individuals to share their thoughts, express their concerns, and receive meaningful, empathetic, and context-aware responses.
 
-This contains everything you need to run your app locally.
+The platform focuses on creating a judgment-free environment where users can explore their emotions, discuss everyday challenges, seek guidance, and gain a better understanding of themselves. By combining artificial intelligence with thoughtful conversational interactions, AskSoul encourages users to reflect on their situations, develop a positive mindset, and approach challenges with greater clarity.
 
-View your app in AI Studio: https://ai.studio/apps/c2ba20f3-7ea7-4e96-a057-2120e63f72bc
+Unlike conventional chatbot applications, AskSoul emphasizes meaningful conversations, emotional understanding, and practical guidance. Its objective is to make mental wellness support more accessible while promoting self-awareness, emotional resilience, and personal development.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**AskSoul – Because every thought deserves to be heard, and every soul deserves to be understood.**
